@@ -134,7 +134,7 @@ Now I change the index.html file.
 | Internet|
 | HTML CSS JS |
 
-## Transcoding No. 2 -  OCR
+## 02 OCR
 
 ### Description
 Optical character recognition or optical character reader (OCR) is the electronic or mechanical conversion of images of typed, handwritten or printed text into machine-encoded text.
@@ -170,7 +170,7 @@ First outcome from an image:
  | PDF Reader|
  | Tesseract JS|
 
-## Transcoding No. 3 -  The Patterns
+## 03 The Patterns
 
 ### Description
 
@@ -207,7 +207,7 @@ Orginal Pattern:
  | Dye|
  | Textile|
 
-## Transcoding No. 4 -  Trading Card Game
+## 04 Trading Card Game
 
 ### Description
 
