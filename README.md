@@ -1,1 +1,316 @@
-# Etherresistance
+[<img src="Documentation/img/cover_img.png" width="100%">](#)
+# Bewegingsmedia / Ether Resistance
+
+### Table of Contents
+1. [Artefact](#Artefact)
+    1. [Metadata](#Metadata)
+2. [Research](#Research)
+    1. [The Artefact](#The-Artefact)
+    2. [Pirate Radio](#Pirate-Radio)
+    3. [Offshore](#Offshore)
+    4. [Piracy](#Piracy)
+    5. [Sneaker-net](#Sneaker-net)
+3. [Transcoding](#Transcoding)
+    1. [Platfrom](#01-Platform)
+    2. [OCR](#02-OCR)
+    3. [The Patterns](#03-The-Patterns)
+    4. [Trading Cards](#04-Trading-Cards)
+    5. [Other Experiments](#Other-Experiements)
+    6. [Transcoding Tool](#Transcoding-tool)
+4. [Reflection](#Reflection)
+5. [Outcome](#Outcome)
+6. [Conclusion](#Conclusion)
+7. [Bibliography](#Bibliography)
+
+# Artefact
+
+This artifact is a collection of information about pirate radio which is very interesting as an artifact for transcoding. This publication was released because it became much more difficult to set up an pirate station. This publication contains story of successful and unsuccessful stations and how can we learn form this for future pirate radio.
+
+<!-- You should include a short introduction about your artefact here. Keep in mind: there is space in the metadata (below) to include the 'formal' or 'physical' description. In your [Research](#Research-h1) section (even lower below) you can expand on the context, history and relevant information for the audience. This little introduction here should have a short, overview quality. Just enough to give a clear overview, before getting into details.   -->
+
+## Metadata
+| Tag | Data |  
+|--|--|
+**IISG Call Number** | [IISG Bro 475/14 fol](https://search.iisg.amsterdam/Record/431007)
+| **Physical Description** | 72 p.
+| **Type** | Books and Brochures
+| **Medium** | Book
+| **Materials** | Paper
+| **Date** | 1987, London : Hooligan Press
+[<img src="Documentation/img/RIMB_DESCR.jpg" width="100%">](#)| This is literally a description of what you see in the image, make sure its a clear, complete and concise overview of the artefact. It should make sense for someone who doesn't see the image itself.  Our final *Catalogue of Resilience* might make use of one representative image from each student, so important to put your moneyshot here. You can build a gallery of additional artefact images below.
+
+# Research
+
+### The Artefact
+A pirate radio how-to guide published by Hooligan Press in London in April, 1987. The title comes from a quote from Chantal Paternostre, a Belgian anarchist who said it when arrested on trumped up terrorism charges. She worked for Radio Air Libre, a Brussels pirate radio station. She was eventually released from prison after more than a year detained: most of it in solitary confinement.
+<sup>[[1]](#footnote-1)</sup>
+
+### Pirate Radio
+Since this subject covers national territories, international water and international airspace, the only effective way to treat this subject is on a country by country, international waters and international airspace basis. Because the laws vary, the interpretation of the term pirate radio also varies considerably
+
+Illegal use of licensed radio spectrum in several forms: Unlicensed operation, Inadvertent interference, Deliberate or malicious interference, Illegal equipment.
+
+### Offshore
+
+> There is a value to act local. Create a (physical) network between different stations to provide and produce material for radio.
+
+Offshore radio is radio broadcasting from ships or fixed maritime structures. Offshore broadcasters are usually unlicenced but transmissions are legal in international waters. This is in contrast to broadcasting without a licence on land or within a nation's territorial waters, which is usually unlawful.
+<sup>[[2]](#footnote-2)</sup>
+![Veronica ship ](Documentation/img/veronicaship.jpg)
+###### Veronica ship, Dutch offshore Radio Station
+
+## In contemporary context
+### Piracy
+
+The term piracy more generally designated the unauthorized usage or reproduction of copyright or patent-protected material. This is almost a far cry from the word’s original etymology. <sup>[[3]](#footnote-3)</sup>
+
+Encryption, Open Sources, Download/Upload (Piratebay, MEGA etc)
+
+### Sneaker-net
+
+Disappointed with the limitations of digital data transport, we turned to analogue transportation. Before digital networks, information was transported between two computers by simply using a floppy disk. This method of carrying digital information in an analogue way is called a ‘sneakernet’. Used in Burma in 2000 to smuggle data out of the country, it has been used for secure transportation of data. We chose to transport the data through sneaker net We knew people that travelled between the west and Iran, and we could use mobile devices to bring the stories back. All we had to do was to create an application capable of recording our stories with a relative safety. <sup>[[4]](#footnote-4)</sup>
+
+**Kim Dotcom on his own alternative internet.**
+> How would you like a new Internet that can't be controlled, censored or destroyed by Governments or Corporations? I'm working on it #MegaNet - Kim Dotcom <sup>[[5]](#footnote-5)</sup>
+
+# Transcoding
+The artifact has some important messages. For example about the freedom of speech, social movements and human rights. The content is maybe old but still valuable. Transcoding this artifact can result that the content and visuals can last longer in a contemporary context.
+
+
+## 01 Platform
+### Description
+LAB is a trans-departmental platfrom to research, transcoding and develope idea's in the frame of (public) distribution, independent broadcasting and network piracy.
+
+ |                |             |    
+ | ------------- |-------------|
+ | Why | The artifact is outdated, both physical and content. Also relevant to the context of public distrbution and community |
+ | What |  A (digital) publication with updated content. |
+ | How | Website / Own media server |
+
+
+### Methods
+<details>
+First step in making an platform started with the idea of making YouTube video. The instruction from the artifact fit well with the idea of Online DIY video.
+
+##### A youtube channel
+ [https://www.youtube.com/channel/UCBS_w8jnLaJKNyx4r4EPJ3g]
+
+ [![Set up a PIRATE RADIO - Introduction (link in description)](http://img.youtube.com/vi/cE5evaVNcL0/0.jpg)](http://www.youtube.com/watch?v=cE5evaVNcL0 "Set up a PIRATE RADIO - Introduction (link in description)")
+
+##### Website
+Because signing up fro youtube means, you sell your soul to google. That's why I decide to make my own platform/website.
+
+[<img src="Documentation/img/sketch.png" width="65%">](#)
+
+##### Server
+Create an own platform means that it also need a server to be online. That's the moment I create my own media server with the raspberry pi.
+
+[<img src="Documentation/img/serveronline_03.jpg" width="50%">](#)[<img src="Documentation/img/serveronline_04.jpg" width="50%">](#)
+ <sub> The webserver & Terminal screen for intalling the webserver </sub>
+
+ To access the server on the raspberry pi I installed Raspbian and Apache2 on the SD card.
+
+ [<img src="Documentation/img/serveronline_05.png" width="50%">](#)
+
+ <sub> It's Working, ITS WORKING (!!) - Anakin Skywalker </sub>
+
+ Then I had to install SSH file to access the server via Cyberduck.
+Now I change the index.html file.
+
+   [<img src="Documentation/img/serveronline_01.png" width="50%">](#)
+
+<sub>First change of the Index.html file</sub>
+
+  [<img src="Documentation/img/serveronline_02.png" width="50%">](#)
+
+  [Platfrom sketch](http://lab.ralphbruens.com/)
+
+</details>
+
+### Tools
+| **Materials** |   
+| ------------- |
+| Raspberry Pi + SD Card|
+| Internet|
+| HTML CSS JS |
+
+## Transcoding No. 2 -  OCR
+
+### Description
+Optical character recognition or optical character reader (OCR) is the electronic or mechanical conversion of images of typed, handwritten or printed text into machine-encoded text.
+
+| | |    
+| ------------- |-------------|
+| Why | Old and new techonlgies clash with eachother. Can they also help each other in case of preservation? |
+| What | Different ways of using the moderns oftware|
+| How | Optical Regonition software |e / Own media server |
+
+
+
+
+### Methods
+<details>
+  [<img src="Documentation/img/ocr.png" width="50%">](#)
+
+<sub>I used the OCR technology on the PDF but it has not the desired effect</sub>
+
+#### Tesseract Js
+
+[<img src="Documentation/img/tessarect.png" width="50%">](#)
+
+First outcome from an image:
+
+"J>· :.>mv. 111, II' c> 'I" 2 , - , 0 IT• ~ o C C\ .,, V. "' I/' ['2 . C r, () I'!< I I ;1;--1111' 2,.._ , : ""00 ,j o,-o () :;. 0 0 ~t?,!~-' :I !II -4-< • ltt 7) -c. .,1 ~11--))t o ,';. :,. ;:, ::;\.,. .t'l--t' ~ z. i-'.l ~ X ~ - -1 (TI il'I"'"' ~ 0 fh (' • C ~ il-1 ~ c -1 ~ E: I ?~("'• Oil' .-1 "'m rr1+,1 "~" & ~ w-I V"," 't -> v- "'c i . 2 ~ C ::i: c., ~ ,j c;- ,, C !"m (II Ill 'O 2 )lo ,.l> '( < £" r--\ ~ fn(/l;pr.•:\I'- I;\ -,. ();;,< i"~ t-J •.{:' " - s:or, ►"' oO l - i-' < N r !'.; . ,, ~ ~ ~ .,, "' - tri .., ,.. ., • 1 ► R-1:ii6 (' :."' ot" 1:.~f ;.: ~ I) 0 ().,,.) 0 t 1'l '"· l . ~ .,.. -0 rr• . '-1" ;,:.I~.;,[ _ J: 2 ci-)lllm-4 ,"." ..,s :: &' - \! .f" ~~ r J "' "(, '. . l ~a u I ~ ~.l,~t ri..= I ,.. ~ I 'I\ .. "
+
+</details>
+
+### Tools
+| **Material** |    
+ | ------------- |
+ | PDF Reader|
+ | Tesseract JS|
+
+## Transcoding No. 3 -  The Patterns
+
+### Description
+
+
+ | | |    
+ | ------------- |-------------|
+ | Why | Preservation of this artifact is not only about content but the visuals tell maybe more about the artifact  |
+ | What | Recreate pattern and context|
+ | How | Using analogue technique |
+
+
+
+
+### Methods
+
+ <details>
+
+Orginal Pattern:
+
+[<img src="Documentation/img/OGpattern.png" width="50%">](#)
+
+
+ IN PROCESS
+ Using an old technique, Dye the fabric. 'this one is a happy acciedent but I try to make more.
+
+ [<img src="Documentation/img/dyetest.jpg" width="50%">](#)
+
+ </details>
+
+
+### Tools
+ | **Material** |    
+ | ------------- |
+ | Dye|
+ | Textile|
+
+## Transcoding No. 4 -  Trading Card Game
+
+### Description
+
+| | |    
+| ------------- |-------------|
+| Why| Use the fragmented text in the publication to educate people about pirate radio |
+| What | a Game |
+| How | Trading Cards |
+
+
+### Methods
+
+ <details>
+Breaking the artifact into a trading card system. Differet artwork, different information and the complete set will rebuild the whole artifact.
+
+Three Different Cards: -Information Card -Radio Station Card and -Instruction Card
+
+ [<img src="Documentation/img/cardsprocess.jpg" width="90%">](#)
+
+  [<img src="Documentation/img/cardsprocess2.jpg" width="90%">](#)
+<sub> Sketches Cards </sub>
+
+
+</details>
+
+
+ ### Tools
+ | **Material** |    
+| ------------- |
+| Paper|
+
+### Results
+
+[Pdf Image Only](/assets/pdf/radio-is-my-bomb-part-1_withouttext.pdf)
+
+
+## Transcoding Tool
+### Description
+-
+
+### Aims
+-
+
+### Methods
+| **Materials** |   
+| ------------- |
+| Raspberry Pi |
+| HTML|
+| CSS |
+| JS |
+| jQuery |
+| Apache |
+
+### Source Links
+
+[Acrobat](https://acrobat.adobe.com/) <br>
+[Tesseract](https://github.com/tesseract-ocr/tesseract) <br>
+[Codecademy](codecademy.com) <br>
+[PI-RATE RADIO](https://www.theverge.com/2019/11/26/20981630/raspberry-pi-pirate-radio-fm-station-35-dollars-diy) <br> [RaspberryPi Downloads](https://www.raspberrypi.org/downloads/) <br>
+[Apache Server](https://www.raspberrypi.org/documentation/remote-access/web-server/apache.md)
+
+# Reflection
+-
+
+# Outcomes
+-
+ [<img src="Documentation/img/lab.png" width="90%">](#)
+
+### Outcome Links
+[Platfrom](https://ralphbruens.github.io/LAB/)
+
+IN PROGRESS
+
+# Conclusion
+You might have a nice conclusive observation to share at the end :)
+
+## Terms:
+
+Cloudcaptive <br>
+Network spoofing<br>
+HAM radio (controlled not regulated)<br>
+Encrypted (backdoor question??)<br>
+Web 2.0<br>
+
+## Bibliography
+<a name="footnote-1">**[1]**</a>:“Radio Is My Bomb: a DIY Manual for Pirates.” Marx.libcom.org, 30 Mar. 2015, 13:37, marx.libcom.org/library/radio-my-bomb-diy-manual-pirates.
+
+<a name="footnote-2">**[2]**</a>: Horace B. Robertson, Jr.  "The Suppression of pirate radio broadcasting: A test case of the international system for control of activities outside national territory"
+
+<a name="footnote-3">**[3]**</a>: “The Pirate Book.” The Pirate Book, 11 Aug. 2017, thepiratebook.net/.
+
+<a name="footnote-4">**[4]**</a>: Pater, Ruben. “Untold Story 12/23.” Untold Stories, 2014, untold-stories.net/?p=Behind-The-Blue-Screen.
+
+<a name="footnote-5">**[5]**</a>: Dotcom, Kim. “How Would You like a New Internet That Can't Be Controlled, Censored or Destroyed by Governments or Corporations? I'm Working on It #MegaNet.” Twitter, Twitter, 16 Feb. 2015, twitter.com/kimdotcom/status/567429236953083905.
+
+<a name="footnote-6">**[6]**</a>: “Loon.” Loon, loon.com/.
+
+<a name="footnote-7">**[7]**</a>: "Episode 50: Radio FreeTrue Anon" soundcloud.com/trueanonpod/radio-free-trueanon. We sit down for an epic two-hour episode with the legend Yasha Levine to ramble through American soft power, intelligence technology, Russiagate and more.
+
+<a name="footnote-8">**[8]**</a>: Martijn, Maurits. “De Wifi in De Trein Is Volstrekt Onveilig (En De NS Doet Er Niets Aan).” De Correspondent, 6 Aug. 2015, decorrespondent.nl/3166/de-wifi-in-de-trein-is-volstrekt-onveilig-en-de-ns-doet-er-niets-aan/97373496-af07ccc1.
+
+<a name="footnote-9">**[9]**</a>:“Pub.” Pub, pub.sandberg.nl/.
+
+<a name="footnote-10">**[10]**</a>:Morozov, Evgeny, et al. “The Meme Hustler.” The Baffler, 3 July 2019, thebaffler.com/salvos/the-meme-hustler.
+
+<a name="footnote-11">**[11]**</a>:Morozov, Evgeny, et al. “The Meme Hustler.” The Baffler, 3 July 2019, thebaffler.com/salvos/the-meme-hustler.
