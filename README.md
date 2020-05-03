@@ -1,4 +1,4 @@
-[<img src="Documentation/img/cover_img.png" width="100%">](#)
+[<img src="Documentation/img/cover_img.jpg" width="100%">](#)
 # Bewegingsmedia / Ether Resistance
 
 ### Table of Contents
