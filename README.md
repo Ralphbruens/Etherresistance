@@ -37,7 +37,7 @@ This artifact is a collection of information about pirate radio which is very in
 | **Medium** | Book
 | **Materials** | Paper
 | **Date** | 1987, London : Hooligan Press
-[<img src="Documentation/img/RIMB_DESCR.jpg" width="100%">](#)| This is literally a description of what you see in the image, make sure its a clear, complete and concise overview of the artefact. It should make sense for someone who doesn't see the image itself.  Our final *Catalogue of Resilience* might make use of one representative image from each student, so important to put your moneyshot here. You can build a gallery of additional artefact images below.
+[<img src="Documentation/img/RIMB_DESCR.jpg" width="100%">](#)| This 72 page publication has a format of a A4 (210 × 297 millimeters). De cover is glossy, with a print of a screaming human and an arm of an other person with a microphone. The background is filled gray skyscrapers. The title "Radio is my Bomb" is placed in the left corner and on the bottom you see the subtitle "DIY Manual for Pirates". The back of the cover is decorated with a red and black pattern and a white column with a small discription of the content.
 
 **Digital format:**
  | **Part 1** | **Part 2** |    
