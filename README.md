@@ -287,8 +287,8 @@ Three Different Cards: -Information Card -Radio Station Card and -Instruction Ca
 </details>
 
 ### Results
-[Text Only](/Documentation/pdf/RadioisMyBomb.txt)
-[Pdf Image Only](/Documentation/pdf/radio-is-my-bomb-part-1_withouttext.pdf)
+[Text Only](/Documentation/pdf/RadioisMyBomb.txt) <br>
+[Pdf Image Only](/Documentation/pdf/radio-is-my-bomb-part-1_withouttext.pdf) <br>
 
 
 ## Transcoding Tool
@@ -362,4 +362,4 @@ Web 2.0<br>
 
 <a name="footnote-10">**[10]**</a>:Morozov, Evgeny, et al. “The Meme Hustler.” The Baffler, 3 July 2019, thebaffler.com/salvos/the-meme-hustler.
 
-<a name="footnote-11">**[11]**</a>:Morozov, Evgeny, et al. “The Meme Hustler.” The Baffler, 3 July 2019, thebaffler.com/salvos/the-meme-hustler.
+<a name="footnote-11">**[11]**</a>:Bozeman Science, Wavelength, video https://www.youtube.com/watch?v=E-SPpUhzYZY, 3 mei 2015
