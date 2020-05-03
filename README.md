@@ -362,4 +362,4 @@ Web 2.0<br>
 
 <a name="footnote-10">**[10]**</a>:Morozov, Evgeny, et al. “The Meme Hustler.” The Baffler, 3 July 2019, thebaffler.com/salvos/the-meme-hustler.
 
-<a name="footnote-11">**[11]**</a>:Bozeman Science, "Wavelength." video 3:22, 3 mei 2015 , https://www.youtube.com/watch?v=E-SPpUhzYZY. 
+<a name="footnote-11">**[11]**</a>:Bozeman Science, "Wavelength." video 3:22, 3 mei 2015 , Youtube.com/watch?v=E-SPpUhzYZY. 
