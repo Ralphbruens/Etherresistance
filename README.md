@@ -272,10 +272,10 @@ Three Different Cards: -Information Card -Radio Station Card and -Instruction Ca
 <details>
   <summary>Quick Sketches</summary>
     
-![Raspberry Pi Test ](/assets/images/raspperrypitest.jpg)
+![Raspberry Pi Test ](/Documentation/img/raspperrypitest.jpg)
 ###### Home experiment with Raspberry Pi, create my own mini pirate radio
 
-![OCR Test ](/assets/images/ocr.png)
+![OCR Test ](Documentation/img/ocr.png)
 ###### I used the OCR technology on the PDF but it has not the desired effect
 
 [Website](https://ralphbruens.github.io/archivalresilience/assets/web/index.html)
@@ -287,17 +287,15 @@ Three Different Cards: -Information Card -Radio Station Card and -Instruction Ca
 </details>
 
 ### Results
-
+[Text Only](/Documentation/pdf/RadioisMyBomb.txt)
 [Pdf Image Only](/Documentation/pdf/radio-is-my-bomb-part-1_withouttext.pdf)
 
 
 ## Transcoding Tool
 ### Description
--
-
+_
 ### Aims
--
-
+_
 ### Methods
 | **Materials** |   
 | ------------- |
@@ -317,11 +315,14 @@ Three Different Cards: -Information Card -Radio Station Card and -Instruction Ca
 [Apache Server](https://www.raspberrypi.org/documentation/remote-access/web-server/apache.md)
 
 # Reflection
--
+
+IN PROGRESS
 
 # Outcomes
--
- [<img src="Documentation/images/lab.png" width="90%">](#)
+
+ [<img src="Documentation/img/Lab.png" width="90%">](#)
+
+IN PROGRESS
 
 ### Outcome Links
 [Platfrom](https://ralphbruens.github.io/LAB/)
@@ -330,6 +331,7 @@ IN PROGRESS
 
 # Conclusion
 You might have a nice conclusive observation to share at the end :)
+IN PROGRESS
 
 ## Terms:
 
