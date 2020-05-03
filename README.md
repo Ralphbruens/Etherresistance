@@ -321,7 +321,7 @@ Three Different Cards: -Information Card -Radio Station Card and -Instruction Ca
 
 # Outcomes
 -
- [<img src="Documentation/img/lab.png" width="90%">](#)
+ [<img src="Documentation/images/lab.png" width="90%">](#)
 
 ### Outcome Links
 [Platfrom](https://ralphbruens.github.io/LAB/)
