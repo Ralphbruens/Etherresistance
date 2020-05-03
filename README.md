@@ -268,12 +268,27 @@ Three Different Cards: -Information Card -Radio Station Card and -Instruction Ca
 | ------------- |
 | Paper|
 
-## Other Experiments
+### Other Experiments
+<details>
+  <summary>Quick Sketches</summary>
+    
+![Raspberry Pi Test ](/assets/images/raspperrypitest.jpg)
+###### Home experiment with Raspberry Pi, create my own mini pirate radio
 
+![OCR Test ](/assets/images/ocr.png)
+###### I used the OCR technology on the PDF but it has not the desired effect
+
+[Website](https://ralphbruens.github.io/archivalresilience/assets/web/index.html)
+
+##### A youtube channel
+[https://www.youtube.com/channel/UCBS_w8jnLaJKNyx4r4EPJ3g]
+
+[![Set up a PIRATE RADIO - Introduction (link in description)](http://img.youtube.com/vi/cE5evaVNcL0/0.jpg)](http://www.youtube.com/watch?v=cE5evaVNcL0 "Set up a PIRATE RADIO - Introduction (link in description)")
+</details>
 
 ### Results
 
-[Pdf Image Only](/assets/pdf/radio-is-my-bomb-part-1_withouttext.pdf)
+[Pdf Image Only](/Documentation/pdf/radio-is-my-bomb-part-1_withouttext.pdf)
 
 
 ## Transcoding Tool
