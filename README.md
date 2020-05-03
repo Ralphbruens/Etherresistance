@@ -39,6 +39,11 @@ This artifact is a collection of information about pirate radio which is very in
 | **Date** | 1987, London : Hooligan Press
 [<img src="Documentation/img/RIMB_DESCR.jpg" width="100%">](#)| This is literally a description of what you see in the image, make sure its a clear, complete and concise overview of the artefact. It should make sense for someone who doesn't see the image itself.  Our final *Catalogue of Resilience* might make use of one representative image from each student, so important to put your moneyshot here. You can build a gallery of additional artefact images below.
 
+**Digital format:**
+ | **Part 1** | **Part 2** |    
+ | ------------- |-------------|
+ | [Pdf](/Documentation/pdf/radio-is-my-bomb-part-1.pdf) | [Pdf](/Documentation/pdf/radio-is-my-bomb-part-2.pdf) |
+ 
 # Research
 
 ### The Artefact
@@ -49,6 +54,10 @@ A pirate radio how-to guide published by Hooligan Press in London in April, 1987
 Since this subject covers national territories, international water and international airspace, the only effective way to treat this subject is on a country by country, international waters and international airspace basis. Because the laws vary, the interpretation of the term pirate radio also varies considerably
 
 Illegal use of licensed radio spectrum in several forms: Unlicensed operation, Inadvertent interference, Deliberate or malicious interference, Illegal equipment.
+
+> If all mankind minus one were of one opinion, and only one person were of the opposite opinion, mankind would be no more justified in silencing that one person than he, if he had the power, would be justified in silencing mankind.
+>
+> A Liberal defense of free speech by John Stuart Mill
 
 ### Offshore
 
@@ -76,6 +85,26 @@ Disappointed with the limitations of digital data transport, we turned to analog
 # Transcoding
 The artifact has some important messages. For example about the freedom of speech, social movements and human rights. The content is maybe old but still valuable. Transcoding this artifact can result that the content and visuals can last longer in a contemporary context.
 
+### Concepts
+<details>
+    
+**Digitizing: scanning the publication.**
+
+We can digitizing. But much in the text has been superseded by modern technology. So if we reproduce it for reference only. And how to preserve the digital data?
+
+**Audio:**
+Using the techniques inside the publication to make a physchial reproduction of the Diy Manual which send out audio/produce audio.
+
+**Video:**
+Using video as a tool to make DIY Instructions. It's a contemporary way of communicating.
+
+**Translate to Instruction (Again)**  
+Making an instruction for translation or recreation. A system that flexible to make for continuous refreshment. A linguistic solution. But after year do we still speak the same language and how to preserve the instruction?
+
+**Make an online forum**
+Make a platform for people sharing their thoughts on making your own (pirate)Radio but also about sharing the infromation of Part one of the artifact.
+
+</details>
 
 ## 01 Platform
 ### Description
@@ -238,6 +267,9 @@ Three Different Cards: -Information Card -Radio Station Card and -Instruction Ca
  | **Material** |    
 | ------------- |
 | Paper|
+
+## Other Experiments
+
 
 ### Results
 
