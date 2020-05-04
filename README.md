@@ -22,13 +22,13 @@
 6. [Conclusion](#Conclusion)
 7. [Bibliography](#Bibliography)
 
-# Artefact
+## Artefact
 
 This artifact is a collection of information about pirate radio which is very interesting as an artifact for transcoding. This publication was released because it became much more difficult to set up an pirate station. This publication contains story of successful and unsuccessful stations and how can we learn form this for future pirate radio.
 
 <!-- You should include a short introduction about your artefact here. Keep in mind: there is space in the metadata (below) to include the 'formal' or 'physical' description. In your [Research](#Research-h1) section (even lower below) you can expand on the context, history and relevant information for the audience. This little introduction here should have a short, overview quality. Just enough to give a clear overview, before getting into details.   -->
 
-## Metadata
+### Metadata
 | Tag | Data |  
 |--|--|
 **IISG Call Number** | [IISG Bro 475/14 fol](https://search.iisg.amsterdam/Record/431007)
@@ -44,7 +44,7 @@ This artifact is a collection of information about pirate radio which is very in
  | ------------- |-------------|
  | [Pdf](/Documentation/pdf/radio-is-my-bomb-part-1.pdf) | [Pdf](/Documentation/pdf/radio-is-my-bomb-part-2.pdf) |
  
-# Research
+## Research
 
 ### The Artefact
 A pirate radio how-to guide published by Hooligan Press in London in April, 1987. The title comes from a quote from Chantal Paternostre, a Belgian anarchist who said it when arrested on trumped up terrorism charges. She worked for Radio Air Libre, a Brussels pirate radio station. She was eventually released from prison after more than a year detained: most of it in solitary confinement.
@@ -82,7 +82,7 @@ Disappointed with the limitations of digital data transport, we turned to analog
 **Kim Dotcom on his own alternative internet.**
 > How would you like a new Internet that can't be controlled, censored or destroyed by Governments or Corporations? I'm working on it #MegaNet - Kim Dotcom <sup>[[5]](#footnote-5)</sup>
 
-# Transcoding
+## Transcoding
 The artifact has some important messages. For example about the freedom of speech, social movements and human rights. The content is maybe old but still valuable. Transcoding this artifact can result that the content and visuals can last longer in a contemporary context.
 
 ### Concepts
@@ -106,8 +106,8 @@ Make a platform for people sharing their thoughts on making your own (pirate)Rad
 
 </details>
 
-## 01 Platform
-### Description
+### 01 Platform
+#### Description
 LAB is a trans-departmental platfrom to research, transcoding and develope idea's in the frame of (public) distribution, independent broadcasting and network piracy.
 
  |                |             |    
@@ -314,11 +314,11 @@ _
 [PI-RATE RADIO](https://www.theverge.com/2019/11/26/20981630/raspberry-pi-pirate-radio-fm-station-35-dollars-diy) <br> [RaspberryPi Downloads](https://www.raspberrypi.org/downloads/) <br>
 [Apache Server](https://www.raspberrypi.org/documentation/remote-access/web-server/apache.md)
 
-# Reflection
+## Reflection
 
 IN PROGRESS
 
-# Outcomes
+## Outcomes
 
  [<img src="Documentation/img/Lab.png" width="90%">](#)
 
@@ -329,7 +329,7 @@ IN PROGRESS
 
 IN PROGRESS
 
-# Conclusion
+## Conclusion
 You might have a nice conclusive observation to share at the end :)
 IN PROGRESS
 
