@@ -2,25 +2,25 @@
 # Bewegingsmedia / Ether Resistance
 
 ### Table of Contents
-1. [Artefact](#Artefact)
-    1. [Metadata](#Metadata)
-2. [Research](#Research)
-    1. [The Artefact](#The-Artefact)
-    2. [Pirate Radio](#Pirate-Radio)
-    3. [Offshore](#Offshore)
-    4. [Piracy](#Piracy)
-    5. [Sneaker-net](#Sneaker-net)
-3. [Transcoding](#Transcoding)
-    1. [Platfrom](#01-Platform)
-    2. [OCR](#02-OCR)
-    3. [The Patterns](#03-The-Patterns)
-    4. [Trading Cards](#04-Trading-Cards)
-    5. [Other Experiments](#Other-Experiements)
-    6. [Transcoding Tool](#Transcoding-tool)
-4. [Reflection](#Reflection)
-5. [Outcome](#Outcome)
-6. [Conclusion](#Conclusion)
-7. [Bibliography](#Bibliography)
+1. [Artefact](#artefact)
+    1. [Metadata](#metadata)
+2. [Research](#research)
+    1. [The Artefact](#the-Artefact)
+    2. [Pirate Radio](#pirate-Radio)
+    3. [Offshore](#offshore)
+    4. [Piracy](#piracy)
+    5. [Sneaker-net](#sneaker-net)
+3. [Transcoding](#transcoding)
+    1. [Platfrom](#01-platform)
+    2. [OCR](#02-ocr)
+    3. [The Patterns](#03-the-patterns)
+    4. [Trading Cards](#04-trading-cards)
+    5. [Other Experiments](#other-experiements)
+    6. [Transcoding Tool](#transcoding-tool)
+4. [Reflection](#reflection)
+5. [Outcome](#outcome)
+6. [Conclusion](#conclusion)
+7. [Bibliography](#bibliography)
 
 ## Artefact
 
@@ -272,10 +272,11 @@ Three Different Cards: -Information Card -Radio Station Card and -Instruction Ca
 <details>
   <summary>Quick Sketches</summary>
     
-![Raspberry Pi Test ](/Documentation/img/raspperrypitest.jpg)
+
+[<img src="/Documentation/img/raspperrypitest.jpg" width="90%">](#)
 ###### Home experiment with Raspberry Pi, create my own mini pirate radio
 
-![OCR Test ](Documentation/img/ocr.png)
+[<img src="/Documentation/img/ocr.png" width="90%">](#)
 ###### I used the OCR technology on the PDF but it has not the desired effect
 
 [Website](https://ralphbruens.github.io/archivalresilience/assets/web/index.html)
