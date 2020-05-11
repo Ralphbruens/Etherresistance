@@ -1,4 +1,4 @@
-[<img src="Documentation/img/cover_img.jpg" width="100%">](#)
+[<img src="https://github.com/Ralphbruens/Etherresistance/blob/master/Documentation/img/cover_img.jpg" width="100%">](#)
 # Bewegingsmedia / Ether Resistance
 
 ### Table of Contents
@@ -42,7 +42,7 @@ This artifact is a collection of information about pirate radio which is very in
 **Digital format:**
  | **Part 1** | **Part 2** |    
  | ------------- |-------------|
- | [Pdf](/Documentation/pdf/radio-is-my-bomb-part-1.pdf) | [Pdf](/Documentation/pdf/radio-is-my-bomb-part-2.pdf) |
+ | [Pdf](https://github.com/Ralphbruens/Etherresistance/blob/master/Documentation/pdf/radio-is-my-bomb-part-1.pdf) | [Pdf](https://github.com/Ralphbruens/Etherresistance/blob/master/Documentation/pdf/radio-is-my-bomb-part-2.pdf) |
  
 ## Research
 
@@ -65,7 +65,7 @@ Illegal use of licensed radio spectrum in several forms: Unlicensed operation, I
 
 Offshore radio is radio broadcasting from ships or fixed maritime structures. Offshore broadcasters are usually unlicenced but transmissions are legal in international waters. This is in contrast to broadcasting without a licence on land or within a nation's territorial waters, which is usually unlawful.
 <sup>[[2]](#footnote-2)</sup>
-![Veronica ship ](Documentation/img/veronicaship.jpg)
+![Veronica ship ](https://github.com/Ralphbruens/Etherresistance/blob/master/Documentation/img/veronicaship.jpg)
 ###### Veronica ship, Dutch offshore Radio Station
 
 ## In contemporary context
@@ -129,28 +129,28 @@ First step in making an platform started with the idea of making YouTube video. 
 ##### Website
 Because signing up fro youtube means, you sell your soul to google. That's why I decide to make my own platform/website.
 
-[<img src="Documentation/img/sketch.png" width="65%">](#)
+[<img src="https://github.com/Ralphbruens/Etherresistance/blob/master/Documentation/img/sketch.png" width="65%">](#)
 
 ##### Server
 Create an own platform means that it also need a server to be online. That's the moment I create my own media server with the raspberry pi.
 
-[<img src="Documentation/img/serveronline_03.jpg" width="50%">](#)[<img src="Documentation/img/serveronline_04.jpg" width="50%">](#)
+[<img src="https://github.com/Ralphbruens/Etherresistance/blob/master/Documentation/img/serveronline_03.jpg" width="50%">](#)[<img src="https://github.com/Ralphbruens/Etherresistance/blob/master/Documentation/img/serveronline_04.jpg" width="50%">](#)
  <sub> The webserver & Terminal screen for intalling the webserver </sub>
 
  To access the server on the raspberry pi I installed Raspbian and Apache2 on the SD card.
 
- [<img src="Documentation/img/serveronline_05.png" width="50%">](#)
+ [<img src="https://github.com/Ralphbruens/Etherresistance/blob/master/Documentation/img/serveronline_05.png" width="50%">](#)
 
  <sub> It's Working, ITS WORKING (!!) - Anakin Skywalker </sub>
 
  Then I had to install SSH file to access the server via Cyberduck.
 Now I change the index.html file.
 
-   [<img src="Documentation/img/serveronline_01.png" width="50%">](#)
+   [<img src="https://github.com/Ralphbruens/Etherresistance/blob/master/Documentation/img/serveronline_01.png" width="50%">](#)
 
 <sub>First change of the Index.html file</sub>
 
-  [<img src="Documentation/img/serveronline_02.png" width="50%">](#)
+  [<img src="https://github.com/Ralphbruens/Etherresistance/blob/master/Documentation/img/serveronline_02.png" width="50%">](#)
 
   [Platfrom sketch](http://lab.ralphbruens.com/)
 
@@ -179,13 +179,13 @@ Optical character recognition or optical character reader (OCR) is the electroni
 
 ### Methods
 <details>
-  [<img src="Documentation/img/ocr.png" width="50%">](#)
+  [<img src="https://github.com/Ralphbruens/Etherresistance/blob/master/Documentation/img//ocr.png" width="50%">](#)
 
 <sub>I used the OCR technology on the PDF but it has not the desired effect</sub>
 
 #### Tesseract Js
 
-[<img src="Documentation/img/tessarect.png" width="50%">](#)
+[<img src="https://github.com/Ralphbruens/Etherresistance/blob/master/Documentation/img/tessarect.png" width="50%">](#)
 
 First outcome from an image:
 
@@ -219,13 +219,13 @@ First outcome from an image:
 
 Orginal Pattern:
 
-[<img src="Documentation/img/OGpattern.png" width="50%">](#)
+[<img src="https://github.com/Ralphbruens/Etherresistance/blob/master/Documentation/img/OGpattern.png" width="50%">](#)
 
 
  IN PROCESS
  Using an old technique, Dye the fabric. 'this one is a happy acciedent but I try to make more.
 
- [<img src="Documentation/img/dyetest.jpg" width="50%">](#)
+ [<img src="https://github.com/Ralphbruens/Etherresistance/blob/master/Documentation/img/dyetest.jpg" width="50%">](#)
 
  </details>
 
@@ -254,9 +254,9 @@ Breaking the artifact into a trading card system. Differet artwork, different in
 
 Three Different Cards: -Information Card -Radio Station Card and -Instruction Card
 
- [<img src="Documentation/img/cardsprocess.jpg" width="90%">](#)
+ [<img src="https://github.com/Ralphbruens/Etherresistance/blob/master/Documentation/img/cardsprocess.jpg" width="90%">](#)
 
-  [<img src="Documentation/img/cardsprocess2.jpg" width="90%">](#)
+  [<img src="https://github.com/Ralphbruens/Etherresistance/blob/master/Documentation/img/cardsprocess2.jpg" width="90%">](#)
 <sub> Sketches Cards </sub>
 
 
@@ -273,10 +273,10 @@ Three Different Cards: -Information Card -Radio Station Card and -Instruction Ca
   <summary>Quick Sketches</summary>
     
 
-[<img src="/Documentation/img/raspperrypitest.jpg" width="90%">](#)
+[<img src="https://github.com/Ralphbruens/Etherresistance/blob/master/Documentation/img/raspperrypitest.jpg" width="90%">](#)
 ###### Home experiment with Raspberry Pi, create my own mini pirate radio
 
-[<img src="/Documentation/img/ocr.png" width="90%">](#)
+[<img src="https://github.com/Ralphbruens/Etherresistance/blob/master/Documentation/img/ocr.png" width="90%">](#)
 ###### I used the OCR technology on the PDF but it has not the desired effect
 
 [Website](https://ralphbruens.github.io/archivalresilience/assets/web/index.html)
@@ -288,8 +288,8 @@ Three Different Cards: -Information Card -Radio Station Card and -Instruction Ca
 </details>
 
 ### Results
-[Text Only](/Documentation/pdf/RadioisMyBomb.txt) <br>
-[Pdf Image Only](/Documentation/pdf/radio-is-my-bomb-part-1_withouttext.pdf) <br>
+[Text Only](https://github.com/Ralphbruens/Etherresistance/blob/master/Documentation/pdf/RadioisMyBomb.txt) <br>
+[Pdf Image Only](https://github.com/Ralphbruens/Etherresistance/blob/master/Documentation/pdf/radio-is-my-bomb-part-1_withouttext.pdf) <br>
 
 
 ## Transcoding Tool
@@ -321,7 +321,7 @@ IN PROGRESS
 
 ## Outcomes
 
- [<img src="Documentation/img/Lab.png" width="90%">](#)
+ [<img src="https://github.com/Ralphbruens/Etherresistance/blob/master/Documentation/img/Lab.png" width="90%">](#)
 
 IN PROGRESS
 
