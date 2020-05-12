@@ -322,7 +322,7 @@ IN PROGRESS
 ## Outcomes
 
  [<img src="https://github.com/Ralphbruens/Etherresistance/blob/master/Documentation/img/Lab.png" width="90%">](#)
-
+ [<img src="https://github.com/Ralphbruens/Etherresistance/blob/master/Documentation/img/Socks1.jpg" width="40%">](#) [<img src="https://github.com/Ralphbruens/Etherresistance/blob/master/Documentation/img/Socks3.jpg" width="40%">](#)
 IN PROGRESS
 
 ### Outcome Links
