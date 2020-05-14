@@ -325,7 +325,7 @@ IN PROGRESS
  [<img src="https://github.com/Ralphbruens/Etherresistance/blob/master/Documentation/img/Result_02.jpg" width="90%">](#)
  [<img src="https://github.com/Ralphbruens/Etherresistance/blob/master/Documentation/img/Result_02.jpg" width="90%">](#)
  [<img src="https://github.com/Ralphbruens/Etherresistance/blob/master/Documentation/img/Mobiel_1.jpg" width="45%">](#)
- [<img src="https://github.com/Ralphbruens/Etherresistance/blob/master/Documentation/img/Socks_1.jpg" width="45%">](#)
+ [<img src="https://github.com/Ralphbruens/Etherresistance/blob/master/Documentation/img/Socks1.jpg" width="45%">](#)
 IN PROGRESS
 
 ### Outcome Links
