@@ -317,7 +317,7 @@ My Transcoding tool is a website on a local (raspberrypi) webserver. The website
 [Apache Server](https://www.raspberrypi.org/documentation/remote-access/web-server/apache.md)
 
 ## Reflection
-While working on this oroject the transcoding went in  different dircetions. From small sketches to test technical parts to analogue try-outs. The process went quite organic and from the research and transcodings it became clear that a website could be the right medium where everything would come together. Using a local server was also a nice additon to the concept although it was sometimes hard to let it work propperly. 
+While working on this project, the transcoding was done in different circles. From small sketches to test technical components to analogue try-outs. The process was quite organic, and research and transcoding made it clear that a website with a visual identity could be the right medium for everything to come together. Using a local server was also a nice addition to the concept, although it was sometimes difficult to get it to work properly.
 
 ## Outcomes
 
@@ -333,7 +333,7 @@ IN PROGRESS
 
 
 ## Conclusion
-I really enjoyed the project. From research through the archive and finding intersseting material; to turn an artefact inside and out. With this proeject I tried to point out the relevantcy of ether resictence and that even radio is an old media there are ways to adopt the thinking of the pirates in contemporary media.
+I really enjoyed the project. From research through the archive and finding interesting material; to turn an artefact inside and out. With this project I tried to point out the relevancy of ether resictence and that even radio is an old media there are ways to adopt the thinking of the pirates in contemporary media.  
 
 
 ## Terms:
