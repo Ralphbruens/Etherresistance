@@ -294,14 +294,15 @@ Three Different Cards: -Information Card -Radio Station Card and -Instruction Ca
 
 ## Transcoding Tool
 ### Description
-_
-### Aims
-_
+
+My Transcoding tool is a website on a local (raspberrypi) webserver. The website allows to organise and contextualize sources tutorials and news. 
+
 ### Methods
 | **Materials** |   
 | ------------- |
 | Raspberry Pi |
-| HTML|
+| Wifi Module |
+| HTML |
 | CSS |
 | JS |
 | jQuery |
@@ -316,8 +317,7 @@ _
 [Apache Server](https://www.raspberrypi.org/documentation/remote-access/web-server/apache.md)
 
 ## Reflection
-
-IN PROGRESS
+While working on this oroject the transcoding went in  different dircetions. From small sketches to test technical parts to analogue try-outs. The process went quite organic and from the research and transcodings it became clear that a website could be the right medium where everything would come together. Using a local server was also a nice additon to the concept although it was sometimes hard to let it work propperly. 
 
 ## Outcomes
 
@@ -329,13 +329,12 @@ IN PROGRESS
 IN PROGRESS
 
 ### Outcome Links
-[Platfrom](https://ralphbruens.github.io/LAB/)
+[LAB Website](https://ralphbruens.github.io/LAB/) (On github server)
 
-IN PROGRESS
 
 ## Conclusion
-You might have a nice conclusive observation to share at the end :)
-IN PROGRESS
+I really enjoyed the project. From research through the archive and finding intersseting material; to turn an artefact inside and out. With this proeject I tried to point out the relevantcy of ether resictence and that even radio is an old media there are ways to adopt the thinking of the pirates in contemporary media.
+
 
 ## Terms:
 
