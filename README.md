@@ -317,7 +317,8 @@ My Transcoding tool is a website on a local (raspberrypi) webserver. The website
 [Apache Server](https://www.raspberrypi.org/documentation/remote-access/web-server/apache.md)
 
 ## Reflection
-While working on this project, the transcoding was done in different circles. From small sketches to test technical components to analogue try-outs. The process was quite organic, and research and transcoding made it clear that a website with a visual identity could be the right medium for everything to come together. Using a local server was also a nice addition.
+
+While working on this project, the transcoding was done in different circles. From small sketches suchs as a mini FM Radio to analogue try-outs like tie-dye textile. The process was quite organic, and research and transcoding made it clear that a website with a visual identity could be the right medium for everything to come together. Using a local server was also a nice addition. 
 
 ## Outcomes
 
