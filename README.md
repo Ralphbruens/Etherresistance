@@ -324,8 +324,9 @@ While working on this project, the transcoding was done in different circles. Fr
 ## Outcomes
 
  [<img src="https://github.com/Ralphbruens/Etherresistance/blob/master/Documentation/img/Logo_LAB.gif" width="90%">](#)
+ [<img src="https://github.com/Ralphbruens/Etherresistance/blob/master/Documentation/img/Result_01.jpg" width="90%">](#)
  [<img src="https://github.com/Ralphbruens/Etherresistance/blob/master/Documentation/img/Result_02.jpg" width="90%">](#)
- [<img src="https://github.com/Ralphbruens/Etherresistance/blob/master/Documentation/img/Result_02.jpg" width="90%">](#)
+  [<img src="https://github.com/Ralphbruens/Etherresistance/blob/master/Documentation/img/Result_03.gif" width="90%">](#)
  [<img src="https://github.com/Ralphbruens/Etherresistance/blob/master/Documentation/img/Mobiel_1.jpg" width="45%">](#)
  [<img src="https://github.com/Ralphbruens/Etherresistance/blob/master/Documentation/img/Socks1.jpg" width="45%">](#)
 
