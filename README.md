@@ -162,6 +162,7 @@ Now I change the index.html file.
 | Raspberry Pi + SD Card|
 | Internet|
 | HTML CSS JS |
+| ESP8266 |
 
 ### 02 OCR
 
