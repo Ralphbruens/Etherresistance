@@ -107,6 +107,8 @@ Make a platform for people sharing their thoughts on making your own (pirate)Rad
 </details>
 
 ### 01 Platform
+[<img src="https://github.com/Ralphbruens/Etherresistance/blob/master/Documentation/img/transcoding_1.jpg" width="100%">](#)
+
 #### Description
 LAB is a trans-departmental platfrom to research, transcoding and develope idea's in the frame of (public) distribution, independent broadcasting and network piracy.
 
@@ -165,6 +167,7 @@ Now I change the index.html file.
 | ESP8266 |
 
 ### 02 OCR
+[<img src="https://github.com/Ralphbruens/Etherresistance/blob/master/Documentation/img/transcoding_2.jpg" width="100%">](#)
 
 ### Description
 Optical character recognition or optical character reader (OCR) is the electronic or mechanical conversion of images of typed, handwritten or printed text into machine-encoded text.
@@ -201,6 +204,7 @@ First outcome from an image:
  | Tesseract JS|
 
 ### 03 The Patterns
+[<img src="https://github.com/Ralphbruens/Etherresistance/blob/master/Documentation/img/transcoding_3.jpg" width="100%">](#)
 
 ### Description
 
@@ -238,6 +242,7 @@ Orginal Pattern:
  | Textile|
 
 ### 04 Trading Card Game
+[<img src="https://github.com/Ralphbruens/Etherresistance/blob/master/Documentation/img/transcoding_4.jpg" width="100%">](#)
 
 ### Description
 
