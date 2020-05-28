@@ -231,7 +231,8 @@ Orginal Pattern:
  Using an old technique, Dye the fabric. 'this one is a happy acciedent but I try to make more.
 
  [<img src="https://github.com/Ralphbruens/Etherresistance/blob/master/Documentation/img/dyetest.jpg" width="50%">](#)
-
+ 
+ [<img src="https://github.com/Ralphbruens/Etherresistance/blob/master/Documentation/img/T1.jpg" width="33%">](#)[<img src="https://github.com/Ralphbruens/Etherresistance/blob/master/Documentation/img/T2.jpg" width="33%">](#)[<img src="https://github.com/Ralphbruens/Etherresistance/blob/master/Documentation/img/T3.jpg" width="33%">](#)
  </details>
 
 
