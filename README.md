@@ -1,5 +1,4 @@
 <img src="https://github.com/Ralphbruens/Etherresistance/blob/master/Documentation/img/cover_img2.jpg" width="100%">
-
 # Bewegingsmedia / Ether Resistance
 
 ### Table of Contents
