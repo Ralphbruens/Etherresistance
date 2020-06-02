@@ -1,4 +1,4 @@
-[<img src="https://github.com/Ralphbruens/Etherresistance/blob/master/Documentation/img/cover_img2.jpg" width="100%">]()
+[<img src="https://github.com/Ralphbruens/Etherresistance/blob/master/Documentation/img/cover_img2.jpg" width="100%">](-)
 # Bewegingsmedia / Ether Resistance
 
 ### Table of Contents
@@ -107,7 +107,7 @@ Make a platform for people sharing their thoughts on making your own (pirate)Rad
 </details>
 
 ### 01 Platform
-[<img src="https://github.com/Ralphbruens/Etherresistance/blob/master/Documentation/img/transcoding_1.jpg" width="100%">]()
+<img src="https://github.com/Ralphbruens/Etherresistance/blob/master/Documentation/img/transcoding_1.jpg" width="100%">
 
 #### Description
 LAB is a trans-departmental platfrom to research, transcoding and develope idea's in the frame of (public) distribution, independent broadcasting and network piracy.
