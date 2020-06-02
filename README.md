@@ -137,23 +137,25 @@ Because signing up fro youtube means, you sell your soul to google. That's why I
 ##### Server
 Create an own platform means that it also need a server to be online. That's the moment I create my own media server with the raspberry pi.
 
-[<img src="https://github.com/Ralphbruens/Etherresistance/blob/master/Documentation/img/serveronline_03.jpg" width="50%">](#)[<img src="https://github.com/Ralphbruens/Etherresistance/blob/master/Documentation/img/serveronline_04.jpg" width="50%">]()
+<img src="https://github.com/Ralphbruens/Etherresistance/blob/master/Documentation/img/serveronline_03.jpg" width="50%">
+
+<img src="https://github.com/Ralphbruens/Etherresistance/blob/master/Documentation/img/serveronline_04.jpg" width="50%">
  <sub> The webserver & Terminal screen for intalling the webserver </sub>
 
  To access the server on the raspberry pi I installed Raspbian and Apache2 on the SD card.
 
- [<img src="https://github.com/Ralphbruens/Etherresistance/blob/master/Documentation/img/serveronline_05.png" width="50%">]()
+<img src="https://github.com/Ralphbruens/Etherresistance/blob/master/Documentation/img/serveronline_05.png" width="50%">
 
  <sub> It's Working, ITS WORKING (!!) - Anakin Skywalker </sub>
 
  Then I had to install SSH file to access the server via Cyberduck.
 Now I change the index.html file.
 
-   [<img src="https://github.com/Ralphbruens/Etherresistance/blob/master/Documentation/img/serveronline_01.png" width="50%">]()
+<img src="https://github.com/Ralphbruens/Etherresistance/blob/master/Documentation/img/serveronline_01.png" width="50%">
 
 <sub>First change of the Index.html file</sub>
 
-  [<img src="https://github.com/Ralphbruens/Etherresistance/blob/master/Documentation/img/serveronline_02.png" width="50%">]()
+<img src="https://github.com/Ralphbruens/Etherresistance/blob/master/Documentation/img/serveronline_02.png" width="50%">
 
   [Platfrom sketch](http://lab.ralphbruens.com/)
 
@@ -168,7 +170,7 @@ Now I change the index.html file.
 | ESP8266 |
 
 ### 02 OCR
-[<img src="https://github.com/Ralphbruens/Etherresistance/blob/master/Documentation/img/transcoding_2.jpg" width="100%">]()
+<img src="https://github.com/Ralphbruens/Etherresistance/blob/master/Documentation/img/transcoding_2.jpg" width="100%">
 
 ### Description
 Optical character recognition or optical character reader (OCR) is the electronic or mechanical conversion of images of typed, handwritten or printed text into machine-encoded text.
@@ -184,13 +186,13 @@ Optical character recognition or optical character reader (OCR) is the electroni
 
 ### Methods
 <details>
-  [<img src="https://github.com/Ralphbruens/Etherresistance/blob/master/Documentation/img//ocr.png" width="50%">]()
+<img src="https://github.com/Ralphbruens/Etherresistance/blob/master/Documentation/img//ocr.png" width="50%">
 
 <sub>I used the OCR technology on the PDF but it has not the desired effect</sub>
 
 #### Tesseract Js
 
-[<img src="https://github.com/Ralphbruens/Etherresistance/blob/master/Documentation/img/tessarect.png" width="50%">]()
+<img src="https://github.com/Ralphbruens/Etherresistance/blob/master/Documentation/img/tessarect.png" width="50%">
 
 First outcome from an image:
 
